@@ -1,0 +1,19 @@
+HTTrack3.50-2 launched on Wed, 30 Sep 2026 11:18:32 at https://demo.webss.ir/clarks/index-particles1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://demo.webss.ir/clarks/index-particles1.html -O1 "D:\train\negin-portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:33	Error: 	"Internal Server Error" (500) after 2 retries at link https://demo.webss.ir/robots.txt (from primary/primary)
+11:19:16	Info: 	Retry after error -4 (No data (connection closed)) at link https://demo.webss.ir/clarks/js/modernizr.js (from https://demo.webss.ir/clarks/index-particles1.html)
+11:19:57	Info: 	Retry after error -4 (No data (connection closed)) at link https://demo.webss.ir/clarks/css/fonts/Vazir-Medium-FD.eot? (from https://demo.webss.ir/clarks/css/style.css)
+11:19:57	Info: 	Retry after error -4 (No data (connection closed)) at link https://demo.webss.ir/clarks/css/fonts/Vazir-Medium-FD.woff2 (from https://demo.webss.ir/clarks/css/style.css)
+11:19:57	Info: 	Retry after error -4 (No data (connection closed)) at link https://demo.webss.ir/clarks/css/fonts/Vazir-Medium-FD.woff (from https://demo.webss.ir/clarks/css/style.css)
+11:19:57	Info: 	Retry after error 500 (Internal Server Error) at link https://demo.webss.ir/clarks/Error pJS - No image.src (from https://demo.webss.ir/clarks/js/plugins.min.js)
+11:19:58	Info: 	Retry after error 500 (Internal Server Error) at link https://demo.webss.ir/clarks/Error pJS - No image.src (from https://demo.webss.ir/clarks/js/plugins.min.js)
+11:19:59	Error: 	"Internal Server Error" (500) after 2 retries at link https://demo.webss.ir/clarks/Error pJS - No image.src (from https://demo.webss.ir/clarks/js/plugins.min.js)
+
+HTTrack Website Copier/3.50-2 mirror complete in 1 minutes 27 seconds : 122 links scanned, 114 files written (6218285 bytes overall) [3654032 bytes received at 42000 bytes/sec], 3678799 bytes transferred using HTTP compression in 69 files, ratio 29%, 10.1 requests per connection
+(2 errors, 0 warnings, 6 messages)
